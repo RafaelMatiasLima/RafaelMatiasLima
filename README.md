@@ -19,7 +19,7 @@ Na UFRN (Ciência e Tecnologia), consolidei minha base em Lógica de Programaç�
   <a href="rafael_matiasl@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
-  <a href="@RFMTSLM" target="_blank">
+  <a href="https://t.me/RFMTSLM" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
